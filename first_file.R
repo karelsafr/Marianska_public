@@ -18,3 +18,8 @@ hello3 <- function(){
 hello4 <- function(){
   cat("guten tag!!")
 }
+
+## cinstina:
+hello5 <- function(){
+  cat("Ni hao wo shuo ta de lao shi")
+}
