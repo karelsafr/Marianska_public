@@ -13,3 +13,8 @@ hello2 <-function(){
 hello3 <- function(){
   cat("Boungiorno!!")
 }
+
+## nemcina:
+hello4 <- function(){
+  cat("guten tag!!")
+}
