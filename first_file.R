@@ -11,5 +11,5 @@ hello2 <-function(){
 }
 ## italska sekce
 hello3 <- function(){
-  cat("ciao bella")
+  cat("Boungiorno")
 }
