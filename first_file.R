@@ -3,7 +3,7 @@
 hello <- function(){
   print("hello!!!")
 }
-
+# konstata:
 h_constant = 1
 
 hello2 <-function(){
