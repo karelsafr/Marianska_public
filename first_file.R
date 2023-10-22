@@ -9,7 +9,7 @@ h_constant = 1
 hello2 <-function(){
   print("dobry den")
 }
-
+## italska sekce
 hello3 <- function(){
   cat("ciao bella")
 }
